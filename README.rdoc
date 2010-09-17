@@ -1,0 +1,6 @@
+permissions for define_permissions in combinations with state_workflow
+
+
+Copyright (c) 2008-2010 3M. All rights reserved. Released under the MIT license.
+
+Authored by Jacob Burkhart.
